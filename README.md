@@ -1,5 +1,6 @@
 # Tanzania Water Point Classification System
 
+<center><img src='./images/start image.jpg'></center>
 
 ## Introduction
 Access to water and sanitation are recognized as human rights by the United Nations. The right to water entitles everyone to access sufficient, safe, acceptable, physically accessible, and affordable water for personal and domestic use. Access to clean water opens lots of possibilities in a community and improves the quality of life and standards of living of a people. Access to clean water enables for proper development of adults, children, and livestock and thus increases their survival rate. Access to clean water also improves the sanitation efforts of a community and this in turn helps lower infection and disease rates of a people. In addition, access to clean water affords a community a chance to boost their economic output since they are more capable of growing crops and rearing livestock and they can start manufacturing and processing industries which most rely on the availability of water. As we have seen from the cases above water is a vital necessity. However, billions of people across the world are still living without safely managed water and sanitation.
